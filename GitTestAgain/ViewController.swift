@@ -16,6 +16,6 @@ class ViewController: UIViewController {
     let test = 1
     let testTwo = 2
     let testThree = 3
-    let testFour = 4
+    
 }
 
