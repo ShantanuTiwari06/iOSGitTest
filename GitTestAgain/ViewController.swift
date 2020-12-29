@@ -14,7 +14,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     let test = 1
-
-
+    let testTwo = 2
+    let testThree = 3
+    let testFour = 4
 }
 
